@@ -1,4 +1,4 @@
-﻿Build started 8/30/2017 3:11:50 AM.
+﻿Build started 8/30/2017 4:57:05 AM.
      1>Project "H:\B.Tech CSE - Graphics_And_Gaming (IBM)\GitHub\Graphics_Algorithms_OpenGL_4.5\CS_Graphic_Algorithms_OpenGL_4.5\CS_Graphic_Algorithms_OpenGL_4.5\CS_Graphic_Algorithms_OpenGL_4.5.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          E:\Microsoft Visual Studio 2015\VC\bin\x86_amd64\CL.exe /c /I"H:\B.Tech CSE - Graphics_And_Gaming (IBM)\GitHub\Graphics_Algorithms_OpenGL_4.5\CS_Graphic_Algorithms_OpenGL_4.5\packages\glfw.3.2.1\build\native\../..//build/native/include/" /I"H:\B.Tech CSE - Graphics_And_Gaming (IBM)\GitHub\Graphics_Algorithms_OpenGL_4.5\CS_Graphic_Algorithms_OpenGL_4.5\packages\glfx.0.75\build\native\../..//build/native/include/" /I"H:\B.Tech CSE - Graphics_And_Gaming (IBM)\GitHub\Graphics_Algorithms_OpenGL_4.5\CS_Graphic_Algorithms_OpenGL_4.5\packages\GLMathematics.0.9.5.4\build\native\include" /ZI /nologo /W3 /WX- /sdl /Od /D GLFW_DLL /D HAS_GLFW /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Test.cpp
@@ -59,4 +59,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:04.13
+Time Elapsed 00:00:01.65
