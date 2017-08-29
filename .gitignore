@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/CS_Graphic_Algorithms_OpenGL_4.5/packages/GLMathematics.0.9.5.4
+/CS_Graphic_Algorithms_OpenGL_4.5/packages/glfx.redist.0.75
+/CS_Graphic_Algorithms_OpenGL_4.5/packages/glfx.0.75
+/CS_Graphic_Algorithms_OpenGL_4.5/packages/glfw.redist.3.2.1
+/CS_Graphic_Algorithms_OpenGL_4.5/packages/glfw.3.2.1

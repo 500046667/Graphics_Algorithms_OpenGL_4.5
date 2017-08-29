@@ -1,0 +1,21 @@
+﻿Build started 8/30/2017 1:16:03 AM.
+     1>Project "H:\B.Tech CSE - Graphics_And_Gaming (IBM)\GitHub\Graphics_Algorithms_OpenGL_4.5\CS_Graphic_Algorithms_OpenGL_4.5\CS_Graphic_Algorithms_OpenGL_4.5\CS_Graphic_Algorithms_OpenGL_4.5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Microsoft Visual Studio 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\CS_Graphic_Algorithms_OpenGL_4.5.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>h:\b.tech cse - graphics_and_gaming (ibm)\github\graphics_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\source.cpp(4): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+         h:\b.tech cse - graphics_and_gaming (ibm)\github\graphics_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\source.cpp(4): note: Add directive to 'stdafx.h' or rebuild precompiled header
+     1>h:\b.tech cse - graphics_and_gaming (ibm)\github\graphics_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\source.cpp(5): warning C4627: '#include <string.h>': skipped when looking for precompiled header use
+         h:\b.tech cse - graphics_and_gaming (ibm)\github\graphics_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\source.cpp(5): note: Add directive to 'stdafx.h' or rebuild precompiled header
+     1>h:\b.tech cse - graphics_and_gaming (ibm)\github\graphics_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\source.cpp(6): warning C4627: '#include <math.h>': skipped when looking for precompiled header use
+         h:\b.tech cse - graphics_and_gaming (ibm)\github\graphics_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\source.cpp(6): note: Add directive to 'stdafx.h' or rebuild precompiled header
+     1>h:\b.tech cse - graphics_and_gaming (ibm)\github\graphics_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\source.cpp(7): warning C4627: '#include <freeglut.h>': skipped when looking for precompiled header use
+         h:\b.tech cse - graphics_and_gaming (ibm)\github\graphics_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\source.cpp(7): note: Add directive to 'stdafx.h' or rebuild precompiled header
+     1>h:\b.tech cse - graphics_and_gaming (ibm)\github\graphics_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\source.cpp(8): warning C4627: '#include "stdafx"': skipped when looking for precompiled header use
+         h:\b.tech cse - graphics_and_gaming (ibm)\github\graphics_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\source.cpp(8): note: Add directive to 'stdafx.h' or rebuild precompiled header
+     1>h:\b.tech cse - graphics_and_gaming (ibm)\github\graphics_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\cs_graphic_algorithms_opengl_4.5\source.cpp(871): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+     1>Done Building Project "H:\B.Tech CSE - Graphics_And_Gaming (IBM)\GitHub\Graphics_Algorithms_OpenGL_4.5\CS_Graphic_Algorithms_OpenGL_4.5\CS_Graphic_Algorithms_OpenGL_4.5\CS_Graphic_Algorithms_OpenGL_4.5.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.44
